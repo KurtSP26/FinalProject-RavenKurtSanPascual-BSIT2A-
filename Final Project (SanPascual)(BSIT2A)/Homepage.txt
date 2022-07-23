@@ -1,0 +1,46 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="card">
+      <img src="usericon.png">
+    <div class="info">
+      <h1>User Information</h1>
+      <p>This contain some of my personal infomation.</p>
+      <a href="userinfo.html" class="btn">Check User Info</a>
+      </div>
+      </div>
+
+      <div class="card">
+        <img src="bookmark.png">
+      <div class="info">
+        <h1>Favorites</h1>
+        <p>This contain some of my favorite websites.</p>
+        <a href="HTML3latest.html" class="btn">Check Favorites</a>
+        </div>
+        </div>
+
+        <div class="card">
+          <img src="family02.png">
+        <div class="info">
+          <h1>Family</h1>
+          <p>This contain of my family information.</p>
+          <a href="fam.html" class="btn">Check Family</a>
+          </div>
+          </div>
+    </body>
+<div class="homepage">
+  <p>Home Page</p>
+</div>
+<style>
+body {
+  background-image: url('scratch.gif');
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-size: cover;
+}

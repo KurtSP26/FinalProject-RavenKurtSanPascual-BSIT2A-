@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<header>
+<center>
+<h1 style="background-color:Gray;">User Info</h1>
+</center>
+</header>
+<center>
+<font size = "05">
+<p style="background:black(200,100,150):width:30%;padding:20px;border:5px solid gray;border-radius:5px;">
+<body text="white">
+<a><img src="Kurt01.jpg" height="200px" width="250px"></img></a>
+</body></br>Raven Kurt A. San Pascual</p>
+</font>
+</center>
+<font size = "3">
+</br>
+<p><center>Place of Birth: Montalban Rizal</center></p>
+</br>
+<p><center>Civil Status: Single</center></p>
+</br>
+<p><center>Religion: Roman Catholic</center></p>
+</br>
+<p><center>Citizenship: Filipino</center></p>
+</br>
+<p><center>Height: 5'6"</center></p>
+</font>
+<a href="HOMEPAGELATEST.html"><img src="leftarrow.svg" height="100px" width="250px"></img></a>
+<style>
+body {
+  background-image: url('Window.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-size: cover;
+}

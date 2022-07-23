@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="card">
+    <img src="Me.jpg">
+  <div class="info">
+    <h1>Me</h1>
+    <p>Raven Kurt A. San Pascual</p>
+    <a href="me.html" class="btn">Check Profile</a>
+    </div>
+    </div>
+
+    <div class="card">
+        <img src="Mommy.jpg">
+      <div class="info">
+        <h1>Mommy</h1>
+        <p>Jennifer A. San Pascual</p>
+        <a href="Mommy.html" class="btn">Check Profile</a>
+        </div>
+        </div>
+
+        <div class="card">
+            <img src="Yuri.jpg">
+          <div class="info">
+            <h1>Brother</h1>
+            <p>Renj-Yuri A. San Pascual</p>
+            <a href="Brother.html" class="btn">Check Profile</a>
+            </div>
+            </div>
+
+            <div class="card">
+                <img src="Daddy.jpg">
+              <div class="info">
+                <h1>Daddy</h1>
+                <p>Renan D. San Pascual</p>
+                <a href="Daddy.html" class="btn">Check Profile</a>
+                </div>
+                </div>
+
+                <div class="back">
+                    <a href="HOMEPAGELATEST.html"><img src="leftarrow1.svg" height="100px" width="250px"></img></a>
+                </div>
+
+                <div class="myfamily">
+                <p>My Family</p>
+            </div>
+</div>
+</body>
+</html>
+<style>
+    body {
+      background-image: url('wave.gif');
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-size: cover;
+    }
